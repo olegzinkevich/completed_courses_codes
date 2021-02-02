@@ -1,1 +1,0 @@
-book: SciPy and NumPy An Overview for Developers by Eli Bressert
